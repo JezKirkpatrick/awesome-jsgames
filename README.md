@@ -48,6 +48,8 @@
 
 ### Educational
 - [Pixel Art Academy](https://github.com/Retronator/Pixel-Art-Academy) - An adventure game for learning to draw.
+- [Kids World Chase](https://www.kidsworldchase.net) - Weekly geography adventure for children aged 8–13. Solve riddles, explore the world on Google Maps, and learn geography facts.
+- [World Chase](https://www.worldchase.net) - Competitive weekly geography challenge. Solve cryptic riddles to find real-world locations and race to the global leaderboard.
 
 ### Platform
 - [nano-wirebot](https://js13kgames.com/entries/nano-wirebot) - A simple platformer where you play as a nanobot that needs to fix some wires.
